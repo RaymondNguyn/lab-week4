@@ -1,6 +1,6 @@
 # lab-week4
-Raymond Nguyen\n
-Aaron Dimatulac\n
-Markus Matsumoto\n
+Raymond Nguyen<br />
+Aaron Dimatulac<br />
+Markus Matsumoto<br />
 ---
 
