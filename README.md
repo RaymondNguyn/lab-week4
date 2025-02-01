@@ -18,7 +18,7 @@ packages:
 ```
 
 ### Terraform
-Run `terraform init`
-Run `terraform validate` correct all configs till you are valid then
-Run `terraform plan` when editing the main.tf use plan to apply changes
-Run `terraform apply`
+Run `terraform init`<br />
+Run `terraform validate` correct all configs till you are valid then<br />
+Run `terraform plan` when editing the main.tf use plan to apply changes<br />
+Run `terraform apply`<br />
