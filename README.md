@@ -5,6 +5,8 @@ Markus Matsumoto<br />
 ---
 
 ## Initial Set-up
+
+### SSH Key Set-up
 The first step of this lab involves creating a new ssh key in our linux enviroment. To do that we have to run the following command `ssh-keygen -t ed25519`. It will then prompt you to enter where and what you want the key to be stored and called.
 
 We then download the cloud-config.yaml file provided by the instructor. 
@@ -14,3 +16,9 @@ packages:
   -nginx
   -nmap
 ```
+
+### Terraform
+Run `terraform init`
+Run `terraform validate` correct all configs till you are valid then
+Run `terraform plan` when editing the main.tf use plan to apply changes
+Run `terraform apply`
